@@ -19,7 +19,7 @@ import {
     resetForm,
     showFeedback,
     showNotification
-} from "./views/View.js";
+} from "./View.js";
 
 // Get the page elements used by the event handlers.
 const form = document.querySelector("#task-form");
