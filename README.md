@@ -13,5 +13,5 @@
 
 ### Raffy D. Basinas
 
--Worked on the Model and data management, including model.js and data.js
--Helped implement task operations such as adding, updating, deleting, and saving assignments.
+- Worked on the Model and data management, including model.js and data.js
+- Helped implement task operations such as adding, updating, deleting, and saving assignments.
