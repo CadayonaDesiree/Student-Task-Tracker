@@ -8,7 +8,7 @@ import {
     updateTaskStatus
 } from "./model.js";
 // Import task filtering and rendering functions.
-import { bindSearch, getVisibleTasks } from "./views/SearchView.js";
+import { bindSearch, getVisibleTasks } from "./SearchView.js";
 import { renderStats, renderTasks } from "./views/TaskView.js";
 // Import settings initialization and page navigation.
 import { initializeSettings, navigateToPage } from "./views/SettingsView.js";
